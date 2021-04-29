@@ -1,5 +1,5 @@
 # cpass-decrypt
-A cPassword Decryptor for GPP Attacks.
+A cPassword Decrypt Tool for GPP Attacks.
 
 ## Usage:
 python3 cpass-decrypt.py cPassword
