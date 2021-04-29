@@ -5,7 +5,7 @@ A cPassword Decryptor for GPP Attacks.
 python3 cpass-decrypt.py <cPassword>
   
 ## Special Thanks to:
-@WizzardAlfredo(https://github.com/WizardAlfredo) for passing me his knowledge on Block Ciphers.
+[@WizzardAlfredo](https://github.com/WizardAlfredo) for passing me his knowledge on Block Ciphers.
 
 
 More about GPP Attacks:
