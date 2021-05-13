@@ -1,6 +1,10 @@
 # cpass-decrypt
 A cPassword Decryption Tool for GPP Attacks.
 
+## Installation:
+`git clone https://github.com/sAsPeCt488/cpass-decrypt.git`
+`pip3 install -r requirements.txt`
+
 ## Usage:
 python3 cpass-decrypt.py cPassword
   
