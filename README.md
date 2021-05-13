@@ -7,7 +7,7 @@ A cPassword Decryption Tool for GPP Attacks.
 `pip3 install -r requirements.txt`
 
 ## Usage:
-python3 cpass-decrypt.py cPassword
+python3 cpass-decrypt.py <cPassword>
   
 ## Special Thanks to:
 [@WizzardAlfredo](https://github.com/WizardAlfredo) for passing me his knowledge on Block Ciphers.
